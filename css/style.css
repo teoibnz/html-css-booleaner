@@ -7,8 +7,42 @@ header{
     
 }
 
+h1{
+    margin-bottom: 0px;;
+}
+
+span{
+    font-size: 10px;;
+}
+
+div{
+    display: inline-block;
+}
+.foto-tim-1{
+    
+    height: 200px;
+    width: 250px;;
+    margin: 0;
+    background-size: cover;
+}
+
 .logo{
 background-repeat: no-repeat;
 padding-top: 40px;;
     
 }
+
+#link-booleaners{
+    color: rgb(105, 207, 241);
+}
+
+#sottotitolo-main{
+    color: rgb(170, 170, 170);
+}
+#data-main{
+    font-size: 8px;;
+    color: rgb(170, 170, 170);
+    margin: 0;
+}
+
+

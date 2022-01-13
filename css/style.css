@@ -73,6 +73,22 @@ padding-top: 40px;;
     background-size: cover;
 }
 
-.container-foto{
-    
+#container-footer-1{
+    background-image: url(../img/monitor.jpg);
+    height: 120px;
+    width: 150px;
+    background-size: cover;
+    color:white;
+    margin-bottom: 10px;
 }
+
+#container-footer{
+    background-image: url(../img/graph.jpg);
+    height: 120px;
+    width: 150px;
+    background-size: cover;
+    color:white;
+}
+
+
+

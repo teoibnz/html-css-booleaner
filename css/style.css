@@ -1,3 +1,9 @@
+
+
+body{
+    width: 900px;
+}
+
 header{
     height: 80px;
     width: 100%;
@@ -20,16 +26,22 @@ div{
 }
 .foto-tim-1{
     
-    height: 200px;
-    width: 250px;;
+    height: 300px;
+    width: 400px;
     margin: 0;
     background-size: cover;
+    
 }
 
 .logo{
 background-repeat: no-repeat;
 padding-top: 40px;;
     
+}
+
+.sottotitolo-foto{
+    margin: 0;
+    font-size: 8px;
 }
 
 #link-booleaners{
@@ -45,4 +57,10 @@ padding-top: 40px;;
     margin: 0;
 }
 
+#riga-principale{
+    background-color: rgba(12, 155, 238, 0.76);
+}
 
+.riga-colorata{
+    background-color: cyan;
+}

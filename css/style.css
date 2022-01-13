@@ -21,9 +21,6 @@ span{
     font-size: 10px;;
 }
 
-div{
-    display: inline-block;
-}
 .foto-tim-1{
     
     height: 300px;
@@ -44,6 +41,9 @@ padding-top: 40px;;
     font-size: 8px;
 }
 
+.riga-colorata{
+    background-color: cyan;
+}
 #link-booleaners{
     color: rgb(105, 207, 241);
 }
@@ -61,6 +61,17 @@ padding-top: 40px;;
     background-color: rgba(12, 155, 238, 0.76);
 }
 
-.riga-colorata{
-    background-color: cyan;
+#testo-footer{
+    color: grey;
+}
+
+.img-footer{
+    height: 120px;
+    width: 150px;
+    background-color: red;
+    background-size: cover;
+}
+
+.container-foto{
+    
 }
